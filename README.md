@@ -2,5 +2,6 @@
 
 
 Supported Device
+
 -NewifiD2
 
